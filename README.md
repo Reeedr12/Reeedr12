@@ -8,9 +8,11 @@
 </p> -->
 
 
-I'm **Salsa**, a student in the **Framework-Based Software Design and Development course**. I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
+I'm **Salsa**, a **Master of Software Engineering** student at **University of Malaya**. 
 
 I enjoy learning about different aspects of Software Development, especially Front-end Development and building interactive web experiences.
 
 - **Course expectations:** To deepen my understanding of framework-based development and gain hands-on experience in building software with modern frameworks.
 - **Fun fact:** I'm a big mama cat 🐱 with six adorable cats at home! Here’s one of my adorable fur babies:
+  
+  <img src="cat.jpg" alt="Alt Text" width="400" height="400">
